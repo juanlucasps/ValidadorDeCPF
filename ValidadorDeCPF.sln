@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeCPF", "ValidadorDeCPF\ValidadorDeCPF.csproj", "{2CABB361-5765-4567-856B-C0D4CEC483CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeCPFTeste", "ValidadorDeCPFTeste\ValidadorDeCPFTeste.csproj", "{1E266DF4-7D01-48BE-AD87-62A8746EA7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CABB361-5765-4567-856B-C0D4CEC483CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CABB361-5765-4567-856B-C0D4CEC483CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CABB361-5765-4567-856B-C0D4CEC483CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CABB361-5765-4567-856B-C0D4CEC483CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E266DF4-7D01-48BE-AD87-62A8746EA7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E266DF4-7D01-48BE-AD87-62A8746EA7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E266DF4-7D01-48BE-AD87-62A8746EA7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E266DF4-7D01-48BE-AD87-62A8746EA7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5622C26-8B5C-4596-B472-4B4B220792EB}
+	EndGlobalSection
+EndGlobal
